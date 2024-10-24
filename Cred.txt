@@ -1,0 +1,2 @@
+username = wasique
+pwd = hello
